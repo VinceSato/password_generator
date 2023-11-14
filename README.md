@@ -1,6 +1,6 @@
 # Your favorite simple password generator
 
-Greetings! This is my first ever public project. The password generator is really simple and straightforward. All the dependencies (basically just using the `random` module) are listed.
+Greetings! This is my first ever public project. The password generator is really simple and straightforward. All the dependencies (basically just using the `random` module) are listed in `requirements.txt` but no external libraries were used, so your standard python installation will do the work.
 
 ## Instructions
 
@@ -9,9 +9,8 @@ First navigate to your prefered folder.
 
 Head to your terminal, then execute each line as follows:
 
-`git clone https://github.com/VinceSato/password_generator
-cd generator
-python3 main.py
-`
+`git clone https://github.com/VinceSato/password_generator`
+`cd generator`
+`python3 main.py`
 
 That's it. Hope you enjoy it!
