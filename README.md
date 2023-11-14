@@ -4,7 +4,7 @@ Greetings! This is my first ever public project. The password generator is reall
 
 ## Instructions
 
-First navigate to your prefered folder.
+First, in your terminal, navigate to your prefered folder.
 
 (*Optional*: activate your prefered python virtual environment)
 
