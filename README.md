@@ -11,7 +11,7 @@ Head to your terminal, then execute each line as follows:
 
 `git clone https://github.com/VinceSato/password_generator`
 
-`cd generator`
+`cd password_generator/generator`
 
 `python3 main.py`
 
