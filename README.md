@@ -10,7 +10,9 @@ First navigate to your prefered folder.
 Head to your terminal, then execute each line as follows:
 
 `git clone https://github.com/VinceSato/password_generator`
+
 `cd generator`
+
 `python3 main.py`
 
 That's it. Hope you enjoy it!
