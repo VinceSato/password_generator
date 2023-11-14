@@ -1,6 +1,6 @@
 # Your favorite simple password generator
 
-Greetings! This is my first ever public project. The password generator is really simple and straightforward. All the dependencies (basically just using the `random` module) are listed in `requirements.txt` but no external libraries were used, so your standard python installation will do the work.
+Greetings! This is my first ever public project. The password generator is really simple and straightforward. The generator just uses the `random` module, which means no external libraries were used, so your standard python installation will do the work.
 
 ## Instructions
 
